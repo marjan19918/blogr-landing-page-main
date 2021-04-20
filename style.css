@@ -17,7 +17,7 @@ header{padding: 50px;
      border-radius:0px 0px 0px 100px;
      color: white;
      background-size: 1440px 400px;
-     /* background-size: 100% 100%; */
+     
 }
 .headertop{
     display: flex;
@@ -178,13 +178,13 @@ font-size: 54px;
 .rightsecone img{
      width: 100%; 
     margin-left: 200px;
-    /* color: ; */
+    
 }
 .sectiontwo{
     margin: 50px 0px;
     padding: 0px 50px;
     display: flex;
-    /* color: white; */
+    
     color:hsl(240, 2%, 79%) ;
     height: 430px;
 flex-direction: row;
@@ -192,12 +192,7 @@ border-radius: 0px 100px 0px 100px;
 background-image:url(./images/bg-pattern-circles.svg),linear-gradient(to left,hsl(237, 17%, 21%),hsl(237, 23%, 32%));
 background-position: 0px 444px;
 background-repeat: repeat-y;
-/* background-size: 600px 500px; */
-/* background-repeat-x: no-repeat; */
-/* background-image:  url(./images/bg-pattern-circles.svg); */
-/* background-size: 400px 500px; */
-/* background-size: 1440px 700px; */
-/* background-size: 100% 100%; */
+
 }
 .leftsctwo{
     width: 50%;
