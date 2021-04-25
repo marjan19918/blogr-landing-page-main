@@ -112,6 +112,18 @@ font-weight:bold ;
 
 .but{
     display: none;
+    border-collapse: collapse;
+    outline: none;
+}
+.but button{
+    border-collapse: collapse;
+    outline: none;
+    background-color: hsl(355, 100%, 74%); 
+    border: 1px solid hsl(355, 100%, 74%);
+
+}
+.but img{
+    border-collapse: collapse;
 }
 .dark{
     display: none;
